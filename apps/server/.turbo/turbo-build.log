@@ -1,0 +1,5 @@
+
+> server@1.0.0 build
+> babel src --out-dir dist
+
+Successfully compiled 1 file with Babel (264ms).
